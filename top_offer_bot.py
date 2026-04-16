@@ -8,8 +8,8 @@ from collections import defaultdict
 from datetime import datetime
 
 # ========== এনভায়রনমেন্ট ভেরিয়েবল (Railway এ সেট করবেন) ==========
-BOT_TOKEN = os.environ.get("TOP_BOT_TOKEN")
-CHAT_ID = os.environ.get("TOP_CHAT_ID")
+BOT_TOKEN = os.environ.get("8644605311:AAEX4ZdRk46ZoehgE3_5pUz6sM5Pp_2y10Y")
+CHAT_ID = os.environ.get("6881373105")
 
 # ========== সাইট লিংক ==========
 HUNTSKIN_URL = "https://huntskin.com/Liveoffersfinal/Live.php"
